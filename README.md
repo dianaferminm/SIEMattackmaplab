@@ -129,7 +129,9 @@ Overview of the Resource Group with key components: Virtual Machine, Public IP, 
     - **Source Type**: Local File  
     - **Number of lines before row**: 0  
     - **Search Key**: network
-    - Click **Review + Create**, then click **Create** 
+    - Click **Review + Create**, then click **Create**
+   
+[Download geoip-summarized.csv](https://drive.google.com/file/d/13EfjM_4BohrmaxqXZLB5VUBIz2sv9Siz/view?usp=sharing)
 
 ![soclab10 (2)](https://github.com/user-attachments/assets/8d76bcf3-8075-4443-8434-a103b3867e07)
 
